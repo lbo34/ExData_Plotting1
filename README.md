@@ -1,3 +1,8 @@
+## UPDATED BY LAURENT BARCELO ON AUG 12, 2016
+This github rep was forked and the corresponding assignment files were added to the root.
+It contains 4 code files plot1.r, plot2.r, plot3.r and plot4.r for generating the 4 plots and the 4 png files requested.
+
+
 ## Introduction
 
 This assignment uses data from
